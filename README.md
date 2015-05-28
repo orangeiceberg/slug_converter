@@ -1,5 +1,9 @@
 # SlugConverter
 
+[![Build Status](https://semaphoreci.com/api/v1/projects/f4a094f6-c268-4bcd-8f6e-2adf33715dcb/436159/badge.svg)](https://semaphoreci.com/basti/slug_converter)
+
+[![slug converter](https://badge.fury.io/rb/slug_converter.svg)](http://badge.fury.io/rb/slug_converter)
+
 ## Installation
 
 Add this line to your application's Gemfile:
